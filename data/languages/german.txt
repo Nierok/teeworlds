@@ -1,4 +1,3 @@
-
 ##### translated strings #####
 
 %d of %d servers, %d players
@@ -532,130 +531,126 @@ Your skin
 no limit
 == Keine Begrenzung
 
-##### needs translation #####
-
 %d Bytes
-== 
+== Bytes
 
 -Page %d-
-== 
+== Seite %d
 
 Add
-== 
+== Hinzu.
 
 Add Friend
-== 
+== Freund hinzu.
 
 Are you sure that you want to remove the player from your friends list?
-== 
+== Wollen sie diesen Freund wirklich aus der Freundesliste entfernen?
 
 Change settings
-== 
+== Ändere Einstellungen
 
 Clan
-== 
+== Clan
 
 Count players only
-== 
+== Zeige nur Spieler
 
 Country
-== 
+== Land
 
 Crc:
-== 
+== Crc
 
 Created:
-== 
+== Erstellt:
 
 Demo details
-== 
+== Demo Informationen
 
 Free-View
-== 
+== Freie Sicht
 
 Friends
-== 
+== Freunde
 
 Kick player
 == 
 
 Length:
-== 
+== Länge
 
 Map:
-== 
+== Karte
 
 Move player to spectators
-== 
+== Spieler zu den Zuschauern bewegen
 
 Netversion:
-== 
+== Netversion
 
 New name:
-== 
+== Neuer Name
 
 Next
-== 
+== Nächster
 
 Page %d of %d
-== 
+== Seite %d von %d
 
 Player options
-== 
+== Spieleroptionen
 
 Prev
-== 
+== Vorh.
 
 Remove
-== 
+== Löschen
 
 Remove friend
-== 
+== Freund löschen
 
 Rename
-== 
+== Umbenennen
 
 Rename demo
-== 
+== Aufnahme umbenennen
 
 Server address:
-== 
+== Serveradresse
 
 Server filter
-== 
+== Server-Filter
 
 Show friends
-== 
+== Zeige Freunde
 
 Show ingame HUD
-== 
+== Zeige Ingame HUD
 
 Size:
-== 
+== Größe
 
 Spectator mode
-== 
+== Zuschauermodus
 
 There's an unsaved map in the editor, you might want to save it before you quit the game.\nQuit anyway?
-== 
+== Es ist eine ungespeicherte Karte im Editor, du solltest es vor dem schließen speichern. \nTrotzdem beenden?
 
 Type:
-== 
+== Art:
 
 Unable to rename the demo
-== 
+== Die Aufnahme konnte nicht umbenannt werden
 
 Use team colors for name plates
-== 
+== Benutze Teamfarben für die Spielernamen
 
 Version:
-== 
+== Version
 
 Vote command:
-== 
+== Abstimmbefehle
 
 Vote description:
-== 
-
-##### old translations #####
+== Abstimmungsbeschreibung
 
